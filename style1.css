@@ -85,6 +85,7 @@ margin-left:100px;
 
 .button2 {
 border: 2px solid red;
+  right:20px;
 color:red;} /* Green */
 .button3 {
 border: 2px solid green;
